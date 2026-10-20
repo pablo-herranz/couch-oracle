@@ -27,6 +27,8 @@ feedback. It must be usable with only the keyboard arrows and Enter.
 - [x] Repository created and public
 - [x] Project initialized with uv, dependencies installed
 - [x] README
+- [x] License: AGPL v3
+- [x] API keys stored under `application couch-oracle`
 
 ## Monday: base, movies and TV (about 6 h)
 

@@ -103,6 +103,13 @@ data/               local database (not committed)
 - Not planned for now: user accounts, downloading or streaming content, or
   integration with media servers.
 
+## Feedback and contributions
+
+Ideas, bug reports and improvements are welcome through GitHub issues and pull
+requests. Feedback on the recommendations themselves is especially useful.
+
 ## License
 
-Not chosen yet.
+[GNU AGPL v3](LICENSE). If you modify Couch Oracle and offer it to others,
+including as a web service, you must make your modified source available under
+the same license.

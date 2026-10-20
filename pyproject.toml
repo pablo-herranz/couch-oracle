@@ -3,6 +3,8 @@ name = "couch-oracle"
 version = "0.1.0"
 description = "Self-hosted recommender for movies, TV shows, books and video games"
 readme = "README.md"
+license = "AGPL-3.0-or-later"
+license-files = ["LICENSE"]
 authors = [
     { name = "Pablo Herranz Ramírez", email = "pablo.herranz@suse.com" }
 ]
